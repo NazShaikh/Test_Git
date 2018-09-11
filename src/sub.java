@@ -11,7 +11,7 @@ public class sub {
 		int c=a-b;
 		System.out.println("the substraction is "+c);
 		System.out.println("hello!!!");
-		System.out.println("trdtrf");
+		System.out.println("trdknhjhf");
 		
 		// TODO Auto-generated method stub
 
