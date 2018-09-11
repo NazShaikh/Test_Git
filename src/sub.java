@@ -10,6 +10,7 @@ public class sub {
 		int a=sc.nextInt(), b=sc.nextInt();
 		int c=a-b;
 		System.out.println("the substraction is "+c);
+		System.out.println("hello!!!");
 		
 		// TODO Auto-generated method stub
 
